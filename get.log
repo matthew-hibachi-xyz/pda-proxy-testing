@@ -1,0 +1,10 @@
+[2025-05-14T16:34:17Z ERROR pda_proxy] Failed to serve the connection: hyper::Error(User(Service), client error (Connect)
+    
+    Caused by:
+        0: tcp connect error: Connection refused (os error 111)
+        1: Connection refused (os error 111))
+[2025-05-14T16:34:17Z ERROR pda_proxy] Failed to serve the connection: hyper::Error(User(Service), client error (Connect)
+    
+    Caused by:
+        0: tcp connect error: Connection refused (os error 111)
+        1: Connection refused (os error 111))
